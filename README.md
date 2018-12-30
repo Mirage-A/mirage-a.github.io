@@ -1,5 +1,5 @@
 # Hello, wanderer!
-![Aranora](art.png)
+![Aranora](ic_launcher.png)
 
 [Download game (at least what's done at the moment)](
         https://github.com/Mirage-A/SW-Client/raw/master/shadow.jar
