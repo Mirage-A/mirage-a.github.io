@@ -1,12 +1,12 @@
 # Welcome to Shattered World!
 ![Aranora](art.png)
 
-[Download game (PC)](
+[Download game (at least what's done at the moment)](
         https://github.com/Mirage-A/SW-Client/raw/master/shadow.jar
       )
 
-## What is Shattered World?
+## Wtf is this?
 Shattered World is an isometric action-RPG with next-gen level graphics!
 
-## When will it be ready?
-Soon (c) ~~(i dunno, maybe never)~~
+## So, when will it be ready?
+Soon (c) ~~(probably never)~~
