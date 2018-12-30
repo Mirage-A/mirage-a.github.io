@@ -1,4 +1,4 @@
-# Welcome to Shattered World!
+# Hello, wanderer!
 ![Aranora](art.png)
 
 [Download game (at least what's done at the moment)](
