@@ -16,3 +16,12 @@ No.
 
 ### So, when will it be ready?
 Soon (c) ~~(probably never)~~
+
+### Some useless links
+[My Github profile](https://github.com/Mirage-A)
+
+[Shattered World client repository](https://github.com/Mirage-A/SW-Client)
+
+[My animation editor repository](https://github.com/Mirage-A/SW-Animation)
+
+[My VK page](https://vk.com/ardenit1)
