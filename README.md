@@ -2,7 +2,7 @@
 ![Aranora](ic_launcher.png)
 
 [Download game (at least what's done at the moment) (currently nothing)](
-        https://github.com/Mirage-A/SW-Client/raw/master/shadow.jar
+        https://github.com/Mirage-A/SW-Client/raw/master/SW%20-%20Game.jar
       )
 
 ### Wtf is this?
