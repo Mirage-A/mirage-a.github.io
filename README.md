@@ -1,7 +1,10 @@
 ## Welcome to GitHub Pages
 
+[Download Shattered World client](
+        https://github.com/Mirage-A/SW-Client/raw/master/shadow.jar
+      )
 
-<a href="README.md" download>Click to Download</a>
+<a href="https://raw.githubusercontent.com/Mirage-A/SW-Webpage/master/README.md?token=AptGq3R1HkchFIzyblnsFaukdvl0yliCks5cMkkQwA%3D%3D" download="">Click to Download</a>
 
 
 You can use the [editor on GitHub](https://github.com/Mirage-A/SW-Webpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
