@@ -6,7 +6,7 @@
       )
 
 [Download Pasan (my another game, already finished and playable)](
-        https://github.com/Mirage-A/Pasan/raw/master/pasan.jar
+        https://github.com/Mirage-A/Pasan/archive/master.zip
       )
 
 ### Wtf is this?
