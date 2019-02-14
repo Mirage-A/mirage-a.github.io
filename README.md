@@ -5,6 +5,10 @@
         https://github.com/Mirage-A/SW-Client/raw/master/SW%20-%20Game.jar
       )
 
+[Download Pasan (my another game, already finished and playable)](
+        https://github.com/Mirage-A/Pasan/raw/master/pasan.jar
+      )
+
 ### Wtf is this?
 Shattered World is an isometric action-RPG with next-gen level graphics!
 
