@@ -6,7 +6,7 @@
       )
 
 [Download Pasan (my another game, already finished and playable)](
-        https://github.com/Mirage-A/Pasan/archive/master.zip
+        https://yadi.sk/d/-l1xMP-bK8a3Zg
       )
 
 ### Wtf is this?
