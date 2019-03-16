@@ -3,7 +3,7 @@
 
 
 [Download Shattered World game (at least what's done at the moment) (currently nothing)](
-        https://github.com/Mirage-A/SW-Client/raw/master/SW%20-%20Game.jar
+        https://github.com/Mirage-A/Shattered-World/raw/master/SW%20-%20Game.jar
       )
 
 [Download Pasan (my another game, already finished and playable)](
@@ -19,7 +19,7 @@ Soon (c) ~~(probably never)~~
 ### Some useless links
 [My Github profile](https://github.com/Mirage-A)
 
-[Shattered World client repository](https://github.com/Mirage-A/SW-Client)
+[Shattered World client repository](https://github.com/Mirage-A/Shattered-World)
 
 [My animation editor repository](https://github.com/Mirage-A/SW-Animation)
 
